@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Trabalhando em projetos pessoais
 - 🎓Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Trabalhando em projetos pessoais
 - 🌱 Aprendendo JavaScript e Design Patterns em C#
 
 
