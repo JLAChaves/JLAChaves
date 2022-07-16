@@ -3,7 +3,8 @@
 
 
 - 🔭 Trabalhando em projetos pessoais
-- 🌱 Aprendendo Entity Framework e SQL
+- 🎓Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo JavaScript e Design Patterns em C#
 
 
 ##
